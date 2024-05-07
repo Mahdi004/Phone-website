@@ -1,0 +1,4 @@
+2024-05-07T10:50:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\tussin\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\TaskList.php روی خط 15
+
+2024-05-07T10:53:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\xampp\htdocs\tussin\wp-includes\Requests\src\Transport\Curl.php روی خط 205
+

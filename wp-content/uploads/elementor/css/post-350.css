@@ -1,0 +1,23 @@
+.elementor-bc-flex-widget .elementor-350 .elementor-element.elementor-element-4c414a5.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-350 .elementor-element.elementor-element-4c414a5.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-350 .elementor-element.elementor-element-4c414a5.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-350 .elementor-element.elementor-element-4c414a5 > .elementor-element-populated{border-style:none;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-350 .elementor-element.elementor-element-4c414a5 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-350 .elementor-element.elementor-element-c2af536 img{width:50%;}.elementor-350 .elementor-element.elementor-element-fb31526{text-align:center;}.elementor-350 .elementor-element.elementor-element-fb31526 .elementor-heading-title{color:#868686;font-family:"IRANYekan", Sans-serif;font-size:15px;font-weight:bold;}.elementor-350 .elementor-element.elementor-element-675ca2b{text-align:center;}.woocommerce .elementor-350 .elementor-element.elementor-element-675ca2b .price{color:#000000;font-family:"IRANYekan", Sans-serif;font-size:15px;font-weight:500;}.woocommerce .elementor-350 .elementor-element.elementor-element-675ca2b .price ins{color:#000000;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'IRANYekan';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.eot');
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.woff') format('woff'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.ttf') format('truetype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.svg#IRANYekan') format('svg');
+}
+@font-face {
+	font-family: 'IRANYekan';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.eot');
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.woff') format('woff'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.ttf') format('truetype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.svg#IRANYekan') format('svg');
+}
+/* End Custom Fonts CSS */

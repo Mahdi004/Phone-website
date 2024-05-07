@@ -1,0 +1,410 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("//localhost/tussin/wp-content/themes/woodmart/fonts/woodmart-font-2-400.woff2?v=7.2.5") format("woff2");
+}
+
+.wd-popup.wd-promo-popup{
+	background-color:#111111;
+	background-image: none;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:left center;
+}
+
+.page-title-default{
+	background-color:#0a0a0a;
+	background-image: none;
+	background-size:cover;
+	background-position:center center;
+}
+
+.footer-container{
+	background-color:#ffffff;
+	background-image: none;
+}
+
+:root{
+--wd-text-font:IRansansX, sans-serif;
+--wd-text-font-weight:400;
+--wd-text-color:#777777;
+--wd-text-font-size:15px;
+}
+:root{
+--wd-title-font:IRansansX, sans-serif;
+--wd-title-font-weight:600;
+--wd-title-color:#242424;
+}
+:root{
+--wd-entities-title-font:IRansansX, sans-serif;
+--wd-entities-title-font-weight:500;
+--wd-entities-title-color:#333333;
+--wd-entities-title-color-hover:rgb(51 51 51 / 65%);
+}
+:root{
+--wd-alternative-font:IRansansX, sans-serif;
+}
+:root{
+--wd-widget-title-font:iranyekan, sans-serif;
+--wd-widget-title-font-weight:400;
+--wd-widget-title-transform:uppercase;
+--wd-widget-title-color:#333;
+--wd-widget-title-font-size:16px;
+}
+:root{
+--wd-header-el-font:iranyekan, sans-serif;
+--wd-header-el-font-weight:700;
+--wd-header-el-transform:uppercase;
+--wd-header-el-font-size:13px;
+}
+:root{
+--wd-primary-color:rgb(96,114,116);
+}
+:root{
+--wd-alternative-color:rgb(222,208,182);
+}
+:root{
+--wd-link-color:#333333;
+--wd-link-color-hover:#242424;
+}
+:root{
+--btn-default-font-family:IRansansX, sans-serif;
+--btn-default-font-weight:400;
+}
+:root{
+--btn-default-bgcolor:#f7f7f7;
+}
+:root{
+--btn-default-bgcolor-hover:#efefef;
+}
+:root{
+--btn-accented-font-family:IRansansX, sans-serif;
+--btn-accented-font-weight:500;
+--btn-accented-transform:lowercase;
+}
+:root{
+--btn-accented-bgcolor:rgb(96,114,116);
+}
+:root{
+--btn-accented-bgcolor-hover:rgb(178,165,155);
+}
+html .product-list-item .wd-add-btn>a{
+	font-family: IRansansX, sans-serif;font-weight: 500;font-size: 15px;text-transform: lowercase;color: rgb(66,66,66);background: rgb(221,51,51);
+}
+
+html .product-list-item .wd-add-btn>a:hover{
+	color: rgb(229,229,229);background: rgb(182,36,226);
+}
+
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+.product-labels .product-label.onsale{
+	background-color:rgb(96,114,116);
+}
+
+.product-labels .product-label.onsale{
+	color:rgb(222,208,182);
+}
+
+.product-labels .product-label.featured{
+	background-color:rgb(96,114,116);
+}
+
+.product-labels .product-label.featured{
+	color:rgb(222,208,182);
+}
+
+.product-labels .product-label.out-of-stock{
+	background-color:rgb(96,114,116);
+}
+
+.product-labels .product-label.out-of-stock{
+	color:rgb(222,208,182);
+}
+
+.product-labels .product-label.attribute-label:not(.label-with-img){
+	background-color:rgb(96,114,116);
+}
+
+.product-labels .product-label.attribute-label:not(.label-with-img){
+	color:rgb(222,208,182);
+}
+
+.wd-builder-off .wd-fbt.wd-design-side{
+--wd-form-width: 300px;
+}	:root{
+					
+			
+							--wd-form-brd-radius: 0px;
+					
+					--wd-form-brd-width: 2px;
+		
+					--btn-default-color: #333;
+		
+					--btn-default-color-hover: #333;
+		
+					--btn-accented-color: #fff;
+		
+					--btn-accented-color-hover: #fff;
+		
+					
+			
+			
+							--btn-default-brd-radius: 5px;
+				--btn-default-box-shadow: none;
+				--btn-default-box-shadow-hover: none;
+					
+					
+			
+			
+							--btn-accented-brd-radius: 5px;
+				--btn-accented-box-shadow: none;
+				--btn-accented-box-shadow-hover: none;
+					
+							
+					--wd-brd-radius: 5px;
+			}
+
+	
+	
+	
+	
+			div.wd-popup.popup-quick-view {
+			max-width: 920px;
+		}
+	
+	
+	
+	
+			.woodmart-woocommerce-layered-nav .wd-scroll-content {
+			max-height: 223px;
+		}
+	
+	
+/* اندازه و رنک سبد خرید  */
+.whb-top-bar .wd-tools-element .wd-tools-icon::before {
+  font-size: 25px;
+}
+
+.whb-top-bar .wd-tools-element .wd-tools-text {
+  font-weight: 400;
+  font-size: 17px;
+	border-right: 1px black solid;
+  padding: 7px 10px 7px 0;
+}
+
+
+/* searchformc  */
+
+.searchform input[type="text"] {
+  border-radius: 10px;
+	height:55px;
+}
+
+.wd-search-form.wd-header-search-form.wd-display-form.whb-jgxcqvvs7s8k1gxvwhmo {
+  margin-right: -35px;
+}
+
+/* nav-link-text  */
+
+.nav-link-text {
+  font-size: 15px;
+  color: #607274;
+}
+
+.nav-link-text:hover{
+color:#B2A59B;
+}
+
+/* بک گراند زیر منو  */
+
+.color-scheme-dark.wd-design-full-width.wd-dropdown-menu.wd-dropdown.wd-scroll {
+  background: #FAEED1;
+	margin-top: 0px;
+}
+.wd-sub-menu li > a {
+  color: #607274;
+}
+
+.wd-sub-menu li > a:hover{
+	color: #B2A59B;
+}
+/* .color-scheme-dark.wd-design-full-width.wd-dropdown-menu.wd-dropdown.wd-scroll
+{
+  margin-top: 0px;
+} */
+/* استایل کل هدر  */
+
+.whb-row.whb-top-bar.whb-not-sticky-row.whb-with-bg.whb-without-border.whb-color-dark.whb-flex-flex-middle {
+  margin-top: -12px;
+}
+
+.whb-row.whb-general-header.whb-sticky-row.whb-without-bg.whb-border-fullwidth.whb-color-dark.whb-flex-flex-middle {
+  margin-top: -25px;
+  margin-right: -23px;
+  border-bottom: none;
+  box-shadow: black -6px 15px 17px -19px;
+}
+
+.site-logo {
+  margin-top: 12px;
+	margin-right: -15px;
+	max-height: 1200px;
+}
+
+.wd-sub-menu.row.color-scheme-dark {
+  margin-right: 10px;
+}
+
+/* استایل سبد خرید */
+
+.woocommerce-mini-cart__empty-message {
+	padding: 23px 19px 0 0;
+}
+	.wd-cart-number.wd-tools-count {
+  background-color: #B2A59B;
+}
+
+.wd-header-nav.wd-header-main-nav.text-left.wd-design-1 {
+    padding-top: 15px;
+}
+
+/* استایل سبد خرید */
+
+.elementor-button.elementor-button--view-cart.elementor-size-md {
+  border-radius: 8px;
+  padding: 15px 10px 15px 10px;
+  margin-right: 10px;
+  background-color: #607274;
+  color: #FAEED1;
+	 border:2px  #607274 solid;
+}
+
+.elementor-button.elementor-button--view-cart.elementor-size-md:hover {
+  border:2px  #607274 solid;
+	background-color:transparent;
+	color:#607274;
+	transition: 0.5s;
+}
+
+
+
+
+/*----------------*/
+.elementor-button.elementor-button--checkout.elementor-size-md{
+
+	border-radius: 8px;
+  padding: 15px 10px 15px 10px;
+  margin-left: 10px;
+  background-color: #607274;
+  color: #FAEED1;
+	border:2px  #607274 solid;
+}
+
+.elementor-button.elementor-button--checkout.elementor-size-md:hover{
+
+	border:2px  #607274 solid;
+	background-color:transparent;
+	color:#607274;
+	transition: 0.5s;
+}
+
+.elementor-button-text {
+	font-size: 15px;
+}
+
+
+.elementor-menu-cart__product-remove.product-remove {
+  margin-left: 10px;
+}
+.elementor-menu-cart__product-remove.product-remove:hover {
+  background-color: #aaa5a5d1;
+  color: white;
+}
+.elementor-menu-cart__product.woocommerce-cart-form__cart-item.cart_item {
+  padding-top: 7px;
+}
+.product-quantity {
+  color: #646363;
+}
+
+/* استایل بهترین ایرپاد ها */
+.col-lg-3.col-md-3.col-6.category-grid-item.cat-design-alt.without-product-count.product-category.product {
+  align-items: center;
+  display: flex;
+  flex: 60;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+a.scrollToTop.button-show {
+    background-color: #bbada3a6;
+    box-shadow: 0 1px 15px -1px #22201eeb;
+}
+
+.woocommerce-variation.single_variation.wd-show {
+  padding-top: 10px;
+}
+/* استایل بخش عکس های محصولات */
+.pswp__item {
+  background-color: #FFF;
+}
+/* استایل صحفه سبد خرید */
+/* استایل سمت چپ */
+.wc-block-components-sidebar.wc-block-cart__sidebar.wp-block-woocommerce-cart-totals-block {
+  margin-top: 22px;
+}
+/*استیال کارت های تخفیف*/
+bdi {
+  color: #556c6f;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}@media (min-width: 768px) and (max-width: 1024px) {
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 576px) {
+	/*استایل کل هدر */
+.whb-column.whb-mobile-left.whb-hidden-lg
+{
+  margin: -4px 0px 0px 0px;
+}
+
+.site-logo
+{
+  margin-top: 0px;
+}
+
+.whb-column.whb-mobile-right.whb-hidden-lg
+{
+  margin-top: -6px;
+}
+}
+

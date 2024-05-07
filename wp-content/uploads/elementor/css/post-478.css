@@ -1,0 +1,30 @@
+.elementor-478 .elementor-element.elementor-element-15055b0 > .elementor-container{min-height:200px;}.elementor-478 .elementor-element.elementor-element-15055b0 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-478 .elementor-element.elementor-element-15055b0:not(.elementor-motion-effects-element-type-background), .elementor-478 .elementor-element.elementor-element-15055b0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(211deg, #FFFFFF 39%, #DACBA9 83%);}.elementor-478 .elementor-element.elementor-element-15055b0{border-style:solid;border-width:2px 2px 2px 2px;border-color:#B2A59B;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-478 .elementor-element.elementor-element-15055b0, .elementor-478 .elementor-element.elementor-element-15055b0 > .elementor-background-overlay{border-radius:16px 16px 16px 16px;}.elementor-478 .elementor-element.elementor-element-15055b0 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-478 .elementor-element.elementor-element-4ea4d24 > .elementor-element-populated{border-style:none;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:17px 17px 17px 17px;}.elementor-478 .elementor-element.elementor-element-4ea4d24 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-478 .elementor-element.elementor-element-7f96ced .elementor-heading-title{color:#FFF7E5;font-family:"IRANYekan", Sans-serif;font-size:14px;font-weight:500;}.elementor-478 .elementor-element.elementor-element-7f96ced > .elementor-widget-container{margin:0px 5px 11px 0px;padding:7px 7px 7px 7px;background-color:transparent;background-image:linear-gradient(200deg, #788480 25%, #DED0B6 82%);border-radius:13px 13px 13px 13px;}.elementor-478 .elementor-element.elementor-element-7f96ced{width:auto;max-width:auto;}.elementor-478 .elementor-element.elementor-element-b6891cb img{width:60%;border-radius:10px 10px 10px 10px;}.elementor-478 .elementor-element.elementor-element-9cdce4a{text-align:center;}.elementor-478 .elementor-element.elementor-element-9cdce4a .elementor-heading-title{color:#837A73;font-family:"IRANYekan", Sans-serif;font-size:14px;font-weight:500;line-height:26px;}.elementor-478 .elementor-element.elementor-element-476e68e > .elementor-container{min-height:50px;}.elementor-478 .elementor-element.elementor-element-a07f370{text-align:center;}.woocommerce .elementor-478 .elementor-element.elementor-element-a07f370 .price{color:#171850;font-family:"IRANYekan", Sans-serif;font-size:15px;font-weight:500;}.e-loop-item-478{--preview-width:200px;}/* Start custom CSS */bdi {
+  color: #556c6f;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 19px
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'IRANYekan';
+	font-style: italic;
+	font-weight: 400;
+	font-display: auto;
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.eot');
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.woff') format('woff'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.ttf') format('truetype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebmediumfanum.svg#IRANYekan') format('svg');
+}
+@font-face {
+	font-family: 'IRANYekan';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.eot');
+	src: url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.eot?#iefix') format('embedded-opentype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.woff') format('woff'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.ttf') format('truetype'),
+		url('http://localhost/tussin/wp-content/uploads/2023/12/iranyekanwebextrablackfanum.svg#IRANYekan') format('svg');
+}
+/* End Custom Fonts CSS */
